@@ -10,4 +10,10 @@ y = 4
 answer = x+y
 
 output = x+y
+<<<<<<< HEAD
 print(output)
+=======
+print(output)
+
+print("x+y")
+>>>>>>> a2a45efc1abca2626e40d034a8c6f12f9c99ff81

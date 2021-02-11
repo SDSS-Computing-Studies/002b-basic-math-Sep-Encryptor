@@ -6,4 +6,13 @@
 x = 5
 y = 2
 
+<<<<<<< HEAD
 answer = x+y
+=======
+answer = x-y
+
+output = x-y
+print(output)
+
+print("x-y")
+>>>>>>> a2a45efc1abca2626e40d034a8c6f12f9c99ff81
